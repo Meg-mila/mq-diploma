@@ -218,7 +218,7 @@ body {
     padding: 5px;
 }
 .menu-button-items:focus {
-    border: 1px solid #fff;
+    outline: 1px solid #fff;
     padding: 5px;
 }
 .menu-button-item {
@@ -859,6 +859,7 @@ body {
     }
     .preview-info {
         width: 100%;
+        margin-top: 10px;
     }
     .preview-date-autor {
         margin-top: 25px;
@@ -965,6 +966,7 @@ body {
     }
     .preview-info {
         width: 100%;
+        margin-top: 10px;
     }
     .preview-content {
         font-size: 14px;
